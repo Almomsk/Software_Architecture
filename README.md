@@ -43,8 +43,8 @@
 Поведенческие (behavioral_patterns):
 
 * [Наблюдатель (observer)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/observer.py)
-* [Цепочка ответственности (chain of responsibility)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/chain_of_responsibility.py)
-* [Команда (command)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/command.py)
-* [Итератор (iterator)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/iterator.py)
-* [Шаблонный метод (template_method)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/template_method.py)
-* [Посетитель (visitor)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/visitor.py)
+* [Цепочка ответственности (chain of responsibility)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/chain_of_responsibility.py)
+* [Команда (command)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/command.py)
+* [Итератор (iterator)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/iterator.py)
+* [Шаблонный метод (template_method)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/template_method.py)
+* [Посетитель (visitor)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/visitor.py)
