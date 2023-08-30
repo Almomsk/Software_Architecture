@@ -27,22 +27,22 @@
 
 Порождающие (generating_patterns):
 
-* [Строитель (builder)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/generating_patterns/builder.py)
-* [Фабричный метод (factory_method)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/generating_patterns/factory_method.py)
-* [Прототип (prototip)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/generating_patterns/prototip.py)
-* [Одиночка (singlton)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/generating_patterns/singlton.py)
+* [Строитель (builder)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/generating_patterns/builder.py)
+* [Фабричный метод (factory_method)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/generating_patterns/factory_method.py)
+* [Прототип (prototip)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/generating_patterns/prototip.py)
+* [Одиночка (singlton)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/generating_patterns/singlton.py)
 
 Структурные (structural_patterns):
 
-* [Компоновщик (composite)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/structural_patterns/сomposite.py)
-* [Адаптер (Adapter)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/structural_patterns/adapter.py)
-* [Мост (bridge)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/structural_patterns/bridge.py)
-* [Декоратор (decorator)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/structural_patterns/decorator.py)
-* [Фасад (facade)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/structural_patterns/facade.py)
+* [Компоновщик (composite)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/structural_patterns/%D1%81omposite.py)
+* [Адаптер (Adapter)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/structural_patterns/adapter.py)
+* [Мост (bridge)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/structural_patterns/bridge.py)
+* [Декоратор (decorator)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/structural_patterns/decorator.py)
+* [Фасад (facade)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/structural_patterns/facade.py)
 
 Поведенческие (behavioral_patterns):
 
-* [Наблюдатель (observer)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/Seminar_2/behavioral_patterns/observer.py)
+* [Наблюдатель (observer)](https://github.com/Almomsk/Software_Architecture/blob/main/HW_seminar_2/behavioral_patterns/observer.py)
 * [Цепочка ответственности (chain of responsibility)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/chain_of_responsibility.py)
 * [Команда (command)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/command.py)
 * [Итератор (iterator)](https://github.com/JuliaRyzhova/Software_architecture/blob/main/OOP_patterns/behavioral_patterns/iterator.py)
